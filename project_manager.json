@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Luka",
+        "years_of_experience": "4",
+        "salary": "1500",
+        "supervises_poject": "FromAZ",
+        "supervises_project": "Wordpress"
+    },
+    {
+        "name": "Tijana",
+        "years_of_experience": "3",
+        "salary": "2345",
+        "supervises_poject": "SSP"
+    },
+    {
+        "name": "Danijela",
+        "years_of_experience": "3",
+        "salary": "1000",
+        "supervises_poject": "Worpress_sites"
+    },
+    {
+        "name": "Marko",
+        "years_of_experience": "Desni",
+        "salary": "1234",
+        "supervises_poject": "Turtle"
+    },
+    {
+        "name": "Ana",
+        "years_of_experience": "asd",
+        "salary": "asdf",
+        "supervises_poject": "Financial_sites"
+    },
+    {
+        "name": "Matej",
+        "years_of_experience": "2",
+        "salary": "1250",
+        "supervises_poject": "Stay Ahead"
+    },
+    {
+        "name": "Simo",
+        "years_of_experience": "3",
+        "salary": "2000",
+        "supervises_poject": "TravelBy"
+    }
+]

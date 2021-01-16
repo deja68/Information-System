@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Milica",
+        "years_of_experience": "2",
+        "salary": "654",
+        "list_of_projects": [
+            "PG bank",
+            "Lowrence"
+        ]
+    },
+    {
+        "name": "Sara",
+        "years_of_experience": "3",
+        "salary": "2500",
+        "list_of_projects": [
+            "Ensuranse",
+            "Stock FLow"
+        ]
+    },
+    {
+        "name": "Boris",
+        "years_of_experience": "2",
+        "salary": "900",
+        "list_of_projects": [
+            "Hospital IS",
+            "Photograph_Me"
+        ]
+    },
+    {
+        "name": "Ana",
+        "years_of_experience": "3",
+        "salary": "1200",
+        "list_of_projects": [
+            "Stocks",
+            "Market Share"
+        ]
+    },
+    {
+        "name": "Luka",
+        "years_of_experience": "1",
+        "salary": "500",
+        "list_of_projects": [
+            "Love birds",
+            " HireMe"
+        ]
+    }
+]
